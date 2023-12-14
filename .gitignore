@@ -1,2 +1,4 @@
-/assets
+/assets/plugins
+/assets/dist
+/assets/uploads
 /database
